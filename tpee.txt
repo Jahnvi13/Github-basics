@@ -1,4 +1,6 @@
-What I learn in my Theory and Practice of Engineering Ethics Class. It's a dummy repo that I am using to learn GitHub.
+What I learn in my Theory and Practice of Engineering Ethics Class. 
+  True it's a dummy repo, but I didn't want to copy someone's code and decided to learn through my own real example. It was a good idea, as   thinking about tpee provides a refreshment break and reduced the density of knowledge going into my mind, thereby enhancing learning! 
+
 1st day: Turned up late. Brand new to the subject of philosophy. Didn't even know this course was going to be about philosophy. Felt                awkward.
 2nd day: Determined to take in as much from this course as I could, I dove into the realm of philosophy!
 3rd day: 
