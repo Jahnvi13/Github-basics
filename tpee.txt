@@ -1,5 +1,4 @@
-What I learn in my Theory and Practice of Engineering Ethics Class.
-
+What I learn in my Theory and Practice of Engineering Ethics Class. It's a dummy repo that I am using to learn GitHub.
 1st day: Turned up late. Brand new to the subject of philosophy. Didn't even know this course was going to be about philosophy. Felt                awkward.
 2nd day: Determined to take in as much from this course as I could, I dove into the realm of philosophy!
 3rd day: 
